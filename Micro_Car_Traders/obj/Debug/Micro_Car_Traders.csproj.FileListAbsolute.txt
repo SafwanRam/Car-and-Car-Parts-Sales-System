@@ -1,0 +1,130 @@
+c:\users\admin\documents\visual studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.exe
+c:\users\admin\documents\visual studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.exe
+c:\users\admin\documents\visual studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Admin_Dashboard.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCarDetailsForm.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.CoreCompileInputs.cache
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.exe.config
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.exe
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.pdb
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csprojAssemblyReference.cache
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Admin_Dashboard.resources
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CarParts.resources
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Form1.resources
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCarDetailsForm.resources
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCustomerDetails.resources
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCustomerOrderDetails.resources
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Properties.Resources.resources
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.GenerateResource.cache
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.CoreCompileInputs.cache
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.exe
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.pdb
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.CopyComplete
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Report.resources
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\RdlCompile.cache
+C:\Users\Ahmd\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\RdlCompile.compiled
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Admin_Dashboard.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CarParts.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Form1.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCarDetailsForm.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCustomerDetails.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCustomerOrderDetails.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Properties.Resources.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.GenerateResource.cache
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.CoreCompileInputs.cache
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csprojAssemblyReference.cache
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.exe.config
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.exe
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.pdb
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.CopyComplete
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.exe
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.pdb
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CustomerRegister.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CustomerDashboard.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.SearchCar.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.SearchCarPartsDetails.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.OrderCar.resources
+C:\Users\Ahmd\source\repos\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.OrderCarParts.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.exe.config
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.exe
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.pdb
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Admin_Dashboard.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CarParts.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CustomerDashboard.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CustomerRegister.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Form1.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCarDetailsForm.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCustomerDetails.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCustomerOrderDetails.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.OrderCar.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.OrderCarParts.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Properties.Resources.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.SearchCar.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.SearchCarPartsDetails.resources
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.CopyComplete
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.exe
+C:\Users\Admin\Desktop\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.pdb
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.exe.config
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.exe
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.pdb
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.exe
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Micro_Car_Traders.pdb
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Admin_Dashboard.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CarParts.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CustomerDashboard.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CustomerRegister.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Form1.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCarDetailsForm.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCustomerDetails.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ManageCustomerOrderDetails.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.OrderCar.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.OrderCarParts.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Properties.Resources.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.SearchCar.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.SearchCarPartsDetails.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ForgotPassword.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.AdminProfile.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.CustomerProfile.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Welcome.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Form2.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.csproj.CopyComplete
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.ViewOrderStatus.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.GenerateReport.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.RegisteredCustomerReport.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.OrderReport.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.InventoryReport.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.Payment.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.OrderNowCar.resources
+C:\Users\Acer\Desktop\AD Files\Micro_Car_Traders\Micro_Car_Traders\obj\Debug\Micro_Car_Traders.OrderNowCarPart.resources
